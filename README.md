@@ -1,6 +1,7 @@
 # Touyee Lor
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![laujqualitylogo](https://github.com/user-attachments/assets/df7180ff-ed06-4a44-aa71-e73f44625926)
+
 
 
 ## 🚀 About Me
