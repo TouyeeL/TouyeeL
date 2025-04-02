@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Touyee (2-Ye) from Spokane, WA<br><br>- 🔭 I’m working as a Photographer & Videographer<br>- 📚 I'm currently learning HTML<br>- ⚡ In my free time I go out to Car Meets</p>
+<p align="left">I'm Touyee (2-Ye) from Spokane, WA<br><br>- 📸 I’m working as a Photographer & Videographer<br>- 📚 I'm currently learning HTML<br>- 🏎️ In my free time I go out to Car Meets</p>
 
 ###
 
